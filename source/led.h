@@ -1,8 +1,7 @@
 /*
  * led.h
  *
- *  Created on: 28-Dec-2019
- *      Author: nieki
+ *  
  */
 
 #ifndef LED_H_
